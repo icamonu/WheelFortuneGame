@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29aa3f931db2439c85e01994bef757eb, type: 3}
+  m_Name: NormalZone
+  m_EditorClassIdentifier: 
+  zoneItems:
+  - item: {fileID: 11400000, guid: 7409f77f934614e85abe2cc50e941612, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: fa7d13ef583c84953b88fbda10cd1876, type: 2}
+    amount: 4
+  - item: {fileID: 11400000, guid: 29e9b17ded5f84ef69114a4c1069b675, type: 2}
+    amount: 10
+  - item: {fileID: 11400000, guid: 47fe30ca664934d0581135b09140d54a, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: fa7d13ef583c84953b88fbda10cd1876, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 47fe30ca664934d0581135b09140d54a, type: 2}
+    amount: 7
+  - item: {fileID: 11400000, guid: 29e9b17ded5f84ef69114a4c1069b675, type: 2}
+    amount: 4
+  - item: {fileID: 11400000, guid: 47fe30ca664934d0581135b09140d54a, type: 2}
+    amount: 3
